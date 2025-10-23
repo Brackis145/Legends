@@ -1,0 +1,2 @@
+# Legends
+Ein Mindcraft Plugin
