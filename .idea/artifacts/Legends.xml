@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Legends">
+    <output-path>$PROJECT_DIR$/Server/plugins</output-path>
+    <root id="archive" name="Legends.jar">
+      <element id="module-output" name="Legends" />
+    </root>
+  </artifact>
+</component>

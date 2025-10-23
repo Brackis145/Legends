@@ -1,0 +1,110 @@
+[17:17:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Eclipse Adoptium Temurin-21.0.4+7) on Windows 11 10.0 (amd64)
+[17:17:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) for Minecraft 1.21.1
+[17:17:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:17:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[17:17:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - LegendsPlugin (1.0)
+[17:17:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:17:07] [ServerMain/INFO]: Loaded 1290 recipes
+[17:17:07] [ServerMain/INFO]: Loaded 1399 advancements
+[17:17:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:17:07] [Server thread/INFO]: Loading properties
+[17:17:07] [Server thread/INFO]: This server is running Paper version 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:17:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:17:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:17:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:17:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and population gen parallelism of 3 threads
+[17:17:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:09] [Server thread/INFO]: Generating keypair
+[17:17:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:09] [Server thread/INFO]: Using default channel type
+[17:17:09] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:17:09] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:17:09] [Server thread/INFO]: [LegendsPlugin] Loading server plugin LegendsPlugin v1.0
+[17:17:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:17:09] [Server thread/INFO]: Preparing level "world"
+[17:17:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:10] [Server thread/INFO]: Time elapsed: 601 ms
+[17:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:17:10] [Server thread/INFO]: Time elapsed: 65 ms
+[17:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:17:10] [Server thread/INFO]: Time elapsed: 49 ms
+[17:17:10] [Server thread/INFO]: [LegendsPlugin] Enabling LegendsPlugin v1.0
+[17:17:10] [Server thread/INFO]: [spark] Starting background profiler...
+[17:17:10] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[17:17:10] [Server thread/INFO]: Done preparing level "world" (1.151s)
+[17:17:10] [Server thread/INFO]: Running delayed init tasks
+[17:17:10] [Server thread/INFO]: Done (9.987s)! For help, type "help"
+[17:17:10] [Server thread/INFO]: Timings Reset
+[17:18:56] [User Authenticator #0/INFO]: UUID of player Brackis145 is 7e987478-5ddd-4066-9c3f-3800e379d5b4
+[17:18:57] [Server thread/INFO]: [LegendsPlugin] Brackis145 ist dem Server beigetreten.
+[17:18:58] [Server thread/INFO]: Brackis145[/127.0.0.1:64491] logged in with entity id 16 at ([world]-530.4012276297557, 207.0, -172.4124236626829)
+[17:19:05] [Server thread/INFO]: Brackis145 issued server command: /gamemode survival
+[17:19:05] [Server thread/INFO]: [Brackis145: Set own game mode to Survival Mode]
+[17:19:36] [Server thread/INFO]: Benutzung: /rang <spieler> <rang>
+[17:19:36] [Server thread/INFO]: Verfügbare Ränge: Spieler, Creator, VIP, Builder, Mod, Dev, Admin
+[17:19:54] [Server thread/INFO]: Brackis145 issued server command: /rang Brackis145 Admin
+[17:19:58] [Server thread/INFO]: Brackis145 issued server command: /checkrang Brackis145
+[17:20:11] [Server thread/INFO]: Rang für Brackis145 wurde erfolgreich vergeben: Admin
+[17:20:25] [Server thread/INFO]: Brackis145 issued server command: /checkrang Brackis145
+[17:20:32] [Server thread/INFO]: Brackis145 issued server command: /fly true
+[17:21:07] [Server thread/INFO]: Brackis145 issued server command: /checkrang Brackis145
+[17:21:12] [Server thread/INFO]: Brackis145 issued server command: /watch Brackis145
+[17:21:21] [Server thread/INFO]: Brackis145 lost connection: Disconnected
+[17:21:21] [Server thread/INFO]: [LegendsPlugin] Brackis145 hat den Server verlassen.
+[17:21:24] [User Authenticator #1/INFO]: UUID of player Brackis145 is 7e987478-5ddd-4066-9c3f-3800e379d5b4
+[17:21:24] [Server thread/INFO]: [LegendsPlugin] Brackis145 ist dem Server beigetreten.
+[17:21:24] [Server thread/INFO]: Brackis145[/127.0.0.1:51646] logged in with entity id 81 at ([world]-525.1617115060982, 245.0, -188.97891971764767)
+[17:21:30] [Server thread/INFO]: Der Spieler [Admin] Brackis145 veranstaltet ein EVENT!
+[17:21:41] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:21:49] [Server thread/INFO]: Das Spiel 'Alle gegen Alle' von [Admin] Brackis145 wurde beendet!
+[17:21:56] [Server thread/INFO]: Brackis145 fell from a high place
+[17:22:04] [Server thread/INFO]: Brackis145 issued server command: /fly true
+[17:22:10] [Server thread/INFO]: Brackis145 issued server command: /glow true
+[17:26:59] [Server thread/INFO]: Brackis145 issued server command: /glow false
+[17:27:07] [Server thread/INFO]: Brackis145 issued server command: /unwatch Brackis145
+[17:27:15] [Server thread/INFO]: Brackis145 issued server command: /fly false
+[17:27:24] [Server thread/INFO]: Brackis145 issued server command: /showlast Brackis145
+[17:27:37] [Server thread/INFO]: Brackis145 issued server command: /showlast command Brackis145 3
+[17:27:43] [Server thread/INFO]: Brackis145 fell from a high place
+[17:27:49] [Server thread/INFO]: Brackis145 issued server command: /spawn
+[17:27:54] [Server thread/INFO]: Brackis145 issued server command: /setspawn
+[17:27:57] [Server thread/INFO]: Brackis145 issued server command: /spawn
+[17:28:01] [Server thread/INFO]: Brackis145 issued server command: /hub
+[17:28:08] [Server thread/INFO]: Brackis145 issued server command: /hub
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/WARN]: Brackis145 moved too quickly! -0.28406184976927307,113.02248803913216,19.0524302856939
+[17:28:08] [Server thread/INFO]: Brackis145 fell from a high place
+[17:40:19] [Server thread/INFO]: Stopping server
+[17:40:19] [Server thread/INFO]: [LegendsPlugin] Disabling LegendsPlugin v1.0
+[17:40:19] [Server thread/INFO]: Saving players
+[17:40:19] [Server thread/INFO]: Brackis145 lost connection: Server closed
+[17:40:19] [Server thread/INFO]: Brackis145 left the game
+[17:40:19] [Server thread/INFO]: Saving worlds
+[17:40:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 51 entity chunks, 0 poi chunks in world 'world' in 0,03s
+[17:40:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0,00s
+[17:40:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:40:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,01s
+[17:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

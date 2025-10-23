@@ -1,0 +1,48 @@
+name: LegendsPlugin
+main: de.brackis.legends.LegendsPlugin
+version: 1.0
+api-version: 1.19
+
+commands:
+  rang:
+    description: "Setzt den Rang eines Spielers"
+    usage: /rang <Spieler> <Rang>
+  glow:
+    description: "Aktiviere oder deaktiviere deinen Glow"
+    usage: /glow true|false
+  live:
+    description: "Live-System für Admins"
+    usage: /live setstreamer <Name> | /live settitel <Titel> | /live settitelcolor <Farbe> | /live alert | /live help
+  vanish:
+    description: "Macht Admins, Mods, Builder und Devs für alle unsichtbar"
+    usage: /vanish [sichtbar]
+  fly:
+    description: "Erlaubt VIPs und höher das Fliegen"
+    usage: /fly true|false
+  checkrang:
+    description: "Zeigt den aktuellen Rang eines Spielers an"
+    usage: /checkrang <Spieler>
+  watch:
+    description: "Aktiviere das Watchsystem für Spieler oder alle"
+    usage: /watch <Spieler/@a>
+  unwatch:
+    description: "Deaktiviere das Watchsystem für Spieler oder alle"
+    usage: /unwatch <Spieler/@a>
+  showlast:
+    description: "Zeigt die letzten Commands/Chats/Whispers eines Spielers. Nutze /showlast help für alle Möglichkeiten."
+    usage: /showlast <command|chatmsg|whispermsg> <Spieler> <Anzahl>
+  setlobby:
+    description: "Setzt die Lobby-Position für ein Minigame"
+    usage: /setlobby <Minigame>
+  spawn:
+    description: "Teleportiert dich zum Spawn"
+    usage: /spawn
+  hub:
+    description: "Teleportiert dich zum Spawn"
+    usage: /hub
+  setspawn:
+    description: "Setzt den Server-Spawn (nur Admin)"
+    usage: /setspawn
+  pov:
+    description: "Übernehme die POV von einem Spieler (Inventar, Leben, Hunger, Position)"
+    usage: /pov <Spieler>
