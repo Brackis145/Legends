@@ -1,2 +1,2 @@
 # Legends
-Ein Mindcraft Plugin
+Ein Minecraft Plugin
